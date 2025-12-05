@@ -1,17 +1,29 @@
-# Project 03 — Ripple Loader
+# Project 03 — Ripple Loader  
+**PT-BR:**  
+Um microprojeto do **SantsCoder** ensinando como criar um **Ripple Pulse Loader** usando CSS puro. Focado em escalonamento, opacidade e animação com `@keyframes`.
 
-Parte da coleção de microprojetos do **SantsCoder**, este componente mostra como criar um **Ripple Pulse Loader** moderno usando apenas CSS.
+**EN:**  
+A **SantsCoder** micro-project teaching how to create a **Ripple Pulse Loader** using pure CSS. Focused on scaling, opacity, and simple `@keyframes` animation.
 
-Uma animação simples e elegante para aprender escalonamento, opacidade e `@keyframes`.
+---
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias / Technologies
 - HTML  
 - CSS  
 
-## ▶ Como usar
-1. Baixe ou clone este repositório  
-2. Abra `index.html` no navegador  
-3. Observe o efeito e ajuste timing, escala e cores
+---
 
-## 📹 Vídeo no YouTube
+## ▶ Como usar (PT-BR)
+1. Baixe ou clone o repositório  
+2. Abra `index.html`  
+3. Ajuste opacidade, escala e timing  
+
+## ▶ How to use (EN)
+1. Download or clone this repository  
+2. Open `index.html`  
+3. Adjust opacity, scale, and timing  
+
+---
+
+## 📹 Vídeo / Video  
 https://youtube.com/@santscoder404
